@@ -9,10 +9,11 @@ import androidx.annotation.StringRes
  */
 
 data class MilkTime(
-    val intID: String,
-    val stringMilkTime: String,
-    val intMilkAmount: Int,
-    val isDiaperChange: Boolean,
-    val isVitaminD: Boolean
+    //val intID: String? = null,
+    val time: Long? = null,
+    val amount: Int? = null,
+    val diaper: Boolean? = null,
+    val vitaminD: Boolean? = null
+    //TODO Add breast milk amount (vs formula milk)
     //TODO("Change vitamin D to int to store amount of drop. Might need more work for parent, should it be?")
 )
