@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cha Bong Milk Time</string>
+    <string name="bottle_feeding">Bottle Feeding</string>
+    <string name="changing_diaper">Changing diaper</string>
+    <string name="vitamin_d">Vitamin D</string>
+    <string name="diaper">Diaper</string>
+    <string name="milk_in_ml">milk in ml</string>
+    <string name="time">time</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="text_milk_amount">%1$dml</string>
+    <string name="toast_add_diaper">Added 1 diaper to record</string>
+    <string name="toast_add_vitamin">Added today Vitamin D to record</string>
+    <string name="dialog_milk_record_title">Milk record</string>
+</resources>
